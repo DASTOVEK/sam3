@@ -1,0 +1,16 @@
+name: sam3
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/6bd7739e-29bf-41a7-b66b-b6b5fdc69b00
+description: The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/DASTOVEK/sam3
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
